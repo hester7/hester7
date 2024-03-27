@@ -1,1 +1,1 @@
-![Stephen's Developer Skills](/Stephen's%20Developer%20Skills.png)
+![Stephen's Tech Skills](/Stephen's%20Tech%20Skills.png)
